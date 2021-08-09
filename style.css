@@ -1,0 +1,7 @@
+#main-home .header-top .item a {
+    color: black;
+}
+
+#main-home .header-top .item a:hover {
+    color: rgb(240, 73, 101);
+}
